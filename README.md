@@ -1,0 +1,1 @@
+A mod menu for CarX Drift Racing Online 2! Contains (as of right now) fly mod, reduced bumper colliders (similar to Kino mod in DRO1), the removal of tire wear and you can set a preset temperature, removal of car damage, and more! Updates frequently and very open to suggestions.
