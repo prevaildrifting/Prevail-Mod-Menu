@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "release": "maps",
+  "maps": [
+    {
+      "id": "ADCLakeV2",
+      "name": "ADC Lake v2",
+      "version": 1,
+      "asset": "ADCLakeV2.zip",
+      "size": 101664322,
+      "sha256": "7379a6225d7f3ac6717db85d25f4d6110b6b740c8a955a93a71decae3060f29f",
+      "files": 74
+    },
+    {
+      "id": "Smotland",
+      "name": "Smotland",
+      "version": 1,
+      "asset": "Smotland.zip",
+      "size": 70852167,
+      "sha256": "d0497f2f99223f05924143854a0d2695bba68aef8a6b9aa6d6ab5a7e54a0211d",
+      "files": 43
+    }
+  ]
+}
