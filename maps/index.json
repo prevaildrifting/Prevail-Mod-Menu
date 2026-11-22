@@ -5,11 +5,11 @@
     {
       "id": "ADCLakeV2",
       "name": "ADC Lake v2",
-      "version": 4,
+      "version": 5,
       "asset": "ADCLakeV2.zip",
-      "size": 22,
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "files": 0
+      "size": 101896918,
+      "sha256": "beac587fbe9a253434f67a122b3c73310a71a7aeecda8ad529fff47eca9ea3c2",
+      "files": 75
     },
     {
       "id": "Smotland",
