@@ -5,10 +5,10 @@
     {
       "id": "ADCLakeV2",
       "name": "ADC Lake v2",
-      "version": 2,
+      "version": 3,
       "asset": "ADCLakeV2.zip",
-      "size": 101386297,
-      "sha256": "38c7e6a1fd0638f41f41e0023ee5080ae9ab81b7a278432589d651061ce2cbbc",
+      "size": 101857643,
+      "sha256": "f229f17127aa349a71a050c60b4e418dcc6d7e9606bfc538691463aa070f8cb4",
       "files": 75
     },
     {
