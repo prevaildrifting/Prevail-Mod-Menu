@@ -14,10 +14,10 @@
     {
       "id": "Smotland",
       "name": "Smotland",
-      "version": 4,
+      "version": 5,
       "asset": "Smotland.zip",
-      "size": 71789703,
-      "sha256": "0dbde3c8144f50cd0b2cc6e60abeb2942f451105aa5a8f4add6d06356db596e8",
+      "size": 71859394,
+      "sha256": "23e39395b878d6c0fd1e7b2e5f401ac6b299795fefaaafffa94a5f9d76928fa6",
       "files": 44
     }
   ]
