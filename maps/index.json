@@ -28,6 +28,15 @@
       "size": 111018481,
       "sha256": "743e6d6dd6d914c61bdbbb36b9e3c8653a09f924b6ddfef8e14454225f273a81",
       "files": 135
+    },
+    {
+      "id": "YZEast",
+      "name": "YZ East",
+      "version": 1,
+      "asset": "YZEast.zip",
+      "size": 68400230,
+      "sha256": "3163ef4e6dbf5f71d701c340691f6097cf1788aff48267bbc120cfe44253e9e4",
+      "files": 70
     }
   ]
 }
