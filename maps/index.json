@@ -19,6 +19,15 @@
       "size": 71859394,
       "sha256": "23e39395b878d6c0fd1e7b2e5f401ac6b299795fefaaafffa94a5f9d76928fa6",
       "files": 44
+    },
+    {
+      "id": "DRO1RedRock",
+      "name": "DRO1 Red Rock",
+      "version": 1,
+      "asset": "DRO1RedRock.zip",
+      "size": 111018481,
+      "sha256": "743e6d6dd6d914c61bdbbb36b9e3c8653a09f924b6ddfef8e14454225f273a81",
+      "files": 135
     }
   ]
 }
