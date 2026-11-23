@@ -9,7 +9,8 @@
       "asset": "ADCLakeV2.zip",
       "size": 101896918,
       "sha256": "beac587fbe9a253434f67a122b3c73310a71a7aeecda8ad529fff47eca9ea3c2",
-      "files": 75
+      "files": 75,
+      "credit": "Author Unknown, reuploaded by Prevail Drifting"
     },
     {
       "id": "Smotland",
@@ -18,17 +19,19 @@
       "asset": "Smotland.zip",
       "size": 71859394,
       "sha256": "23e39395b878d6c0fd1e7b2e5f401ac6b299795fefaaafffa94a5f9d76928fa6",
-      "files": 44
+      "files": 44,
+      "credit": "Author Unknown, reuploaded by Prevail Drifting"
     },
     {
       "id": "DRO1RedRock",
       "name": "DRO1 Red Rock",
       "version": 2,
-      "asset": "DRO1RedRock.zip",
+      "asset": "DRO1RedRock-v2.zip",
       "size": 111067024,
       "sha256": "a52a4caf3ad9c39a740e8527fda958f721594b8fdcb2e32eb8e37ef57ca76231",
       "files": 135,
-      "nva_guid": "754da34304b058f6d8845cc9c819ed61"
+      "sourceId": "754da34304b058f6d8845cc9c819ed61",
+      "credit": "Original track by CarX Technologies, DRO2 conversion by NVA (reuploaded by Prevail Drifting)"
     },
     {
       "id": "YZEast",
@@ -37,7 +40,8 @@
       "asset": "YZEast.zip",
       "size": 68400230,
       "sha256": "3163ef4e6dbf5f71d701c340691f6097cf1788aff48267bbc120cfe44253e9e4",
-      "files": 70
+      "files": 70,
+      "credit": "Author Unknown, reuploaded by Prevail Drifting"
     }
   ]
 }
