@@ -25,10 +25,10 @@
     {
       "id": "DRO1RedRock",
       "name": "DRO1 Red Rock",
-      "version": 2,
-      "asset": "DRO1RedRock-v2.zip",
-      "size": 111067024,
-      "sha256": "a52a4caf3ad9c39a740e8527fda958f721594b8fdcb2e32eb8e37ef57ca76231",
+      "version": 3,
+      "asset": "DRO1RedRock-v3.zip",
+      "size": 111077227,
+      "sha256": "ba799a0c59dc4c3c2c6756514c276de48d432c9948f69a4116360a4d2a1bf701",
       "files": 135,
       "sourceId": "754da34304b058f6d8845cc9c819ed61",
       "credit": "Original track by CarX Technologies, DRO2 conversion by NVA (reuploaded by Prevail Drifting)"
