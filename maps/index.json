@@ -23,11 +23,12 @@
     {
       "id": "DRO1RedRock",
       "name": "DRO1 Red Rock",
-      "version": 1,
+      "version": 2,
       "asset": "DRO1RedRock.zip",
-      "size": 111018481,
-      "sha256": "743e6d6dd6d914c61bdbbb36b9e3c8653a09f924b6ddfef8e14454225f273a81",
-      "files": 135
+      "size": 111067024,
+      "sha256": "a52a4caf3ad9c39a740e8527fda958f721594b8fdcb2e32eb8e37ef57ca76231",
+      "files": 135,
+      "nva_guid": "754da34304b058f6d8845cc9c819ed61"
     },
     {
       "id": "YZEast",
