@@ -9,6 +9,7 @@ in the menu, and it installs the map for you (checked against its SHA-256 before
 |---|---|---|---|
 | ADC Lake v2 | `ADCLakeV2` | 5 | Author Unknown, reuploaded by Prevail Drifting |
 | DRO1 Red Rock | `DRO1RedRock` | 3 | Original track by CarX Technologies, DRO2 conversion by NVA (reuploaded by Prevail Drifting) |
+| RWYB Forrest Rock | `RWYBForrestRock` | 1 | Original map by rwyb_moz, DRO2 conversion by NVA (reuploaded by Prevail Drifting) |
 | Smotland | `Smotland` | 5 | Author Unknown, reuploaded by Prevail Drifting |
 | YZ East | `YZEast` | 1 | Author Unknown, reuploaded by Prevail Drifting |
 

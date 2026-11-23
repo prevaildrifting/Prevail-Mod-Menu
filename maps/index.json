@@ -42,6 +42,17 @@
       "sha256": "3163ef4e6dbf5f71d701c340691f6097cf1788aff48267bbc120cfe44253e9e4",
       "files": 70,
       "credit": "Author Unknown, reuploaded by Prevail Drifting"
+    },
+    {
+      "id": "RWYBForrestRock",
+      "name": "RWYB Forrest Rock",
+      "version": 1,
+      "asset": "RWYBForrestRock-v1.zip",
+      "size": 105882930,
+      "sha256": "04ce39b80b8fc1b16b8778a5ad2effc30a04968de9e9e76ad98152a8ae53bd2f",
+      "files": 117,
+      "credit": "Original map by rwyb_moz, DRO2 conversion by NVA (reuploaded by Prevail Drifting)",
+      "sourceId": "d9f7cc5371d5c6be8f4479d04a07dc4b"
     }
   ]
 }
