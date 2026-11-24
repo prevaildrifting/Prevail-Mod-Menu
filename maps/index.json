@@ -10,7 +10,10 @@
       "size": 101896918,
       "sha256": "beac587fbe9a253434f67a122b3c73310a71a7aeecda8ad529fff47eca9ea3c2",
       "files": 75,
-      "credit": "Author Unknown, reuploaded by Prevail Drifting"
+      "credit": "Author Unknown, reuploaded by Prevail Drifting",
+      "preview": "previews/ADCLakeV2.jpg",
+      "previewSha256": "57b3a326d5cc4c8e45cc180fe9ad9fa12653bfc6778686b4e6eedfdde0fb8a32",
+      "previewSize": 37465
     },
     {
       "id": "Smotland",
@@ -20,7 +23,10 @@
       "size": 71859394,
       "sha256": "23e39395b878d6c0fd1e7b2e5f401ac6b299795fefaaafffa94a5f9d76928fa6",
       "files": 44,
-      "credit": "Author Unknown, reuploaded by Prevail Drifting"
+      "credit": "Author Unknown, reuploaded by Prevail Drifting",
+      "preview": "previews/Smotland.jpg",
+      "previewSha256": "c9a9ea9b8db91fb297706460d2266680005d93eaef33432e969f74c7454477e6",
+      "previewSize": 32645
     },
     {
       "id": "DRO1RedRock",
@@ -31,7 +37,10 @@
       "sha256": "ba799a0c59dc4c3c2c6756514c276de48d432c9948f69a4116360a4d2a1bf701",
       "files": 135,
       "sourceId": "754da34304b058f6d8845cc9c819ed61",
-      "credit": "Original track by CarX Technologies, DRO2 conversion by NVA (reuploaded by Prevail Drifting)"
+      "credit": "Original track by CarX Technologies, DRO2 conversion by NVA (reuploaded by Prevail Drifting)",
+      "preview": "previews/DRO1RedRock.jpg",
+      "previewSha256": "fa491f5e1168b8a74372458b3c18e393c186df013b64f9a540ce568daf9c1f06",
+      "previewSize": 46797
     },
     {
       "id": "YZEast",
@@ -41,7 +50,10 @@
       "size": 68400230,
       "sha256": "3163ef4e6dbf5f71d701c340691f6097cf1788aff48267bbc120cfe44253e9e4",
       "files": 70,
-      "credit": "Author Unknown, reuploaded by Prevail Drifting"
+      "credit": "Author Unknown, reuploaded by Prevail Drifting",
+      "preview": "previews/YZEast.jpg",
+      "previewSha256": "0156d4c14c775c53999da9b02577957c4e09409677f3a07681f300ac67264923",
+      "previewSize": 31967
     },
     {
       "id": "RWYBForrestRock",
